@@ -248,4 +248,19 @@ export const COMPANIES: Company[] = [
     sourceUrl: "https://superwhisper.com/careers",
     sourceLabel: "Superwhisper careers page",
   },
+  {
+    slug: "sunday",
+    name: "Sunday",
+    website: "https://callsunday.com",
+    shortDescription:
+      "AI operating system for fitness and wellness brands — handles inbound member communication across phone, email, and SMS, then drives outbound retention and reactivation automatically.",
+    whyItMatters:
+      "Building Jarvis for fitness and wellness businesses, using voice AI to create a chief intelligence officer for each brand that knows which members are at risk and acts without a human in the loop.",
+    category: "Vertical AI",
+    locationLabel: "108 College St, Toronto, ON M5G 1L6",
+    coordinates: [-79.3934, 43.6577],
+    founded: 2025,
+    sourceUrl: "https://callsunday.com",
+    sourceLabel: "Sunday website",
+  },
 ]
