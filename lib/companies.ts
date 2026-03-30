@@ -234,4 +234,20 @@ export const COMPANIES: Company[] = [
     sourceUrl: "https://ca.linkedin.com/company/nationgraph",
     sourceLabel: "NationGraph LinkedIn company profile",
   },
+  {
+    slug: "thred",
+    name: "Thred",
+    website: "https://www.thred.ai",
+    shortDescription:
+      "AI buyer signal platform that detects when companies research you via ChatGPT, Gemini, Claude, or Perplexity.",
+    whyItMatters:
+      "A Toronto startup pioneering a new category of GTM intelligence built around AI search behavior.",
+    category: "Vertical AI",
+    locationLabel: "20 John Street, Toronto, ON",
+    coordinates: [-79.38941, 43.64418],
+    founded: 2024,
+    logoUrl: "/logos/thred.png",
+    sourceUrl: "https://www.thred.ai",
+    sourceLabel: "Thred website",
+  },
 ]
